@@ -127,5 +127,10 @@ main {
     border-radius: 2rem;
   }
   
+  .games {
+    margin: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
   
- 
