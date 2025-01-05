@@ -107,7 +107,7 @@
     right: 10%;
   }
   .pro h2 {
-    width: 40%;
+    backdrop-filter: blur(2rem);
     color: white;
     font-weight: 600;
   }
