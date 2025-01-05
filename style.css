@@ -100,5 +100,15 @@ main {
     padding: 1rem;
     position: relative;
   }
+  .pro img {
+    position: absolute;
+    top: -10%;
+    right: 10%;
+  }
+  .pro h2 {
+    width: 40%;
+    color: white;
+    font-weight: 600;
+  }
   
  
