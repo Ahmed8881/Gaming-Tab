@@ -162,3 +162,9 @@ main {
     position: absolute;
     left: 60%;
   }
+  .card-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
