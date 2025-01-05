@@ -58,3 +58,11 @@ main {
   position: absolute;
   border-radius: 50%;
 }
+.circle1 {
+    top: 5%;
+    right: 15%;
+  }
+  .circle2 {
+    bottom: 5%;
+    left: 10%;
+  }
