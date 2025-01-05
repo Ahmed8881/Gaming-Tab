@@ -93,3 +93,12 @@ main {
   .games {
     flex: 2;
   }
+  .pro {
+    background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+    border-radius: 2rem;
+    color: white;
+    padding: 1rem;
+    position: relative;
+  }
+  
+ 
