@@ -103,7 +103,7 @@
   
   .proimg {
     position: absolute;
-    bottom: 10%;
+    top: -17px;
     right: 10%;
   }
   .pro h2 {
